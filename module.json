@@ -2,7 +2,7 @@
   "name": "liberu-platform-orchestration",
   "display_name": "Liberu Platform Orchestration",
   "description": "Provider-neutral Liberu Platform Orchestration capability.",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "category": "capability",
   "provider": "Liberu\\Platform\\PlatformOrchestration\\PlatformOrchestrationServiceProvider",
   "requires": {
