@@ -1,6 +1,5 @@
 # Changelog
 
-## 1.0.0
+## 1.0.0 - 2026-08-24
 
-- Initial documented module boundary.
-
+- Added composition registration and lifecycle transitions.
